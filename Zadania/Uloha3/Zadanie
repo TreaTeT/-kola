@@ -1,0 +1,7 @@
+Zadanie : 
+  Pomocou OOP vytvorte program, kde budete pracovať spoľom B sn  riadkami  an stĺpcami typu String. 
+  Umožnite načítať údaje do poľa zo súboru izklávesnice. 
+  Zoraďte vzostupne určitý riadok –voľbu načítajte zklávesnice (bubble sort), 
+  zoraďte vzostupne určitý  stĺpec –voľbu  načítajte  zklávesnice  (insertion  sort), \
+  zoraďte  prvky  hlavnej diagonály avedľajšej diagonály (selection sort). 
+  Po každej zmene poľa vypíšte celé pole do súboruina konzolu
