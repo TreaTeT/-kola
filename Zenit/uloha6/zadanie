@@ -1,0 +1,23 @@
+Problem statement: zenit15skf
+Zadanie najnovšieho projektu je softvér na alternatívne učenie. Okrem iného má zvýšiť mozgovú kapacitu o 147% a naučiť triediť odpad. Používateľ bude vystavený náročným úloham. K lepším výkonom ho budú povzbudzovať elektrošoky. Jedna zo zaujimavých pripravovaných úloh je tvorba anagramov.
+
+Čo sú to anagramy? Dve slová sú si navzájom anagramy ak vieme preusporiadať písmená jedného tak že dostaneme druhé. Presne, bez vyhadzovania a pridávania. Vo vyvíjanom softvéri dostane užívateľ frázu a má ju prerobiť na inú, pričom budú extra body za zmysluplnosť. Teraz treba urobiť overovač či sú si dve slová anagramy.
+
+Formát vstupu a výstupu
+Vstup má dva riadky, na každom z nich je neprázdny reťazec malých písmen bez diakritiky. Oba reťazce sú dlhé najviac 100000 znakov. Zistite či sú si reťazce anagramy a vypíšte “ano” resp. “nie”.
+
+Príklady
+Input:
+
+kalerab
+mrkvicka
+Output:
+
+nie
+Input:
+
+aznaprsiauschne
+narazisnauspech
+Output:
+
+ano
