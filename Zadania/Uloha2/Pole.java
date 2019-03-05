@@ -13,7 +13,7 @@ public class Pole {
         this.riadky = riadky;
     }
 
-    public void klavesnica(){
+    public void klavesnica(){ //nacitanie z klavesnice
         Scanner sc = new Scanner(System.in);
         for(int i = 0 ; i < this.arr.length; i++){
             for(int j = 0 ; j < this.arr[i].length;j++){
@@ -21,7 +21,7 @@ public class Pole {
             }
         }
     }
-    public void subor() throws IOException {
+    public void subor() throws IOException { //nacitanie zo suboru
         BufferedReader input = new BufferedReader(new FileReader("pole.txt"));
         for(int i = 0 ; i < this.arr.length; i++){
             for(int j = 0 ; j < this.arr[i].length;j++){
@@ -30,7 +30,7 @@ public class Pole {
         }
         input.close();
     }
-    public void zapis() throws IOException{
+    public void zapis() throws IOException{ //zapis do suboru
         BufferedWriter output = new BufferedWriter(new FileWriter("polevypis.txt"));
         for(int i = 0 ; i < this.arr.length; i++){
             for(int j = 0 ; j < this.arr[i].length;j++) {
@@ -43,7 +43,7 @@ public class Pole {
         output.close();
     }
 
-    public void vypis(){
+    public void vypis(){//vypis na konzolu
         for(int i = 0 ; i < this.arr.length; i++){
             for(int j = 0 ; j < this.arr[i].length;j++){
                 System.out.print(this.arr[i][j] + " ");
@@ -51,7 +51,7 @@ public class Pole {
             System.out.println();
         }
     }
-    public void vymenRiadky(int riadok1 , int riadok2){
+    public void vymenRiadky(int riadok1 , int riadok2){//vymenenie riadkov
         for(int i = 0 ;i < this.stlpce; i ++){
 
             char pom = this.arr[riadok1-1][i];
@@ -62,7 +62,7 @@ public class Pole {
 
         }
     }
-    public void vymenStlpce(int stlpec1 , int stlpec2){
+    public void vymenStlpce(int stlpec1 , int stlpec2){//vymenenie stlpcov
         for(int i = 0 ;i < this.riadky; i ++){
 
             char pom = this.arr[i][stlpec1-1];
@@ -73,7 +73,7 @@ public class Pole {
 
         }
     }
-    public void najdi(char c){
+    public void najdi(char c){//najdi char v poli
         boolean check = false;
         for(int i = 0 ; i < this.arr.length; i++){
             for(int j = 0 ; j < this.arr[i].length;j++){
