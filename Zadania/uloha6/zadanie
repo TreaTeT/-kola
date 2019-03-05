@@ -1,0 +1,13 @@
+Vytvorte program, ktorý
+a) v metóde napln() vygeneruje do poľa desatinných čísel 15 hodnôt z množiny
+<2; 30>, tieto čísla budú predstavovať hmotnosti balíkov prijatých dnes na pošte
+
+b) v metóde info() pripraví na výpis vygenerované hmotnosti balíkov a vypíše ich
+zaokrúhlené na 2 desatinné miesta
+
+c) v metóde spolu() spočíta celkovú hmotnosť prijatých balíkov a vypíše ju
+zaokrúhlenú na 3 desatinné miesta
+
+d) v metóde lahke() pripraví na výpis hmotnosti balíkov do 12 kg zaokrúhlené na 1
+desatinné miesto, vypíše ich a vypíše tiež počet ľahkých balíkov (urobte to čo
+najefektívnejšie)
