@@ -1,0 +1,6 @@
+Zadanie :
+  Pomocou OOP pracujte sdvojrozmerným poľom sn riadkami am stĺpcami typu char. 
+  Umožnite načítať údaje do poľa zo súboru izklávesnice.
+  Umožnite užívateľovi nájsť ním zadaný znak vpoli azistiť,kde sa nachádza. 
+  Taktiež umožnite vymeniť navzájom dva riadky, resp. stĺpce zvolené užívateľom. 
+  Zabezpečte vypisovanie poľa avýsledkov do súboru, ina konzolu
