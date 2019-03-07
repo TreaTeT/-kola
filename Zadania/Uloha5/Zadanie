@@ -1,0 +1,6 @@
+Pomocou OOP vytvorte program, ktorý bude vyhodnocovať preteky hodu oštepom pre n pretekárov:
+Ak je v súťaži 8 a menej súťažiacich, majú všetci 6 pokusov. 
+Pri vyššom počte majú súťažiaci 3 pokusy a ďalšie 3 pokusy majú iba tí súťažiaci, ktorí sú po troch pokusoch na 1. až 8. mieste. 
+Prešľapy sa počítajú za nulový hod.
+Zistite najdlhší hod, najkratší hod, priemerný hod (prešľapy sa nezarátavajú) každého pretekára. 
+Vypíšte poradie pretekárov podľa najdlhšieho hodu. 
