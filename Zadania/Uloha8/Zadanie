@@ -1,0 +1,5 @@
+Vytvorte  program,  ktorý  vygeneruje  do  dvojrozmerného  poľa  D[7][7] celé  čísla zintervalu <0; 30>.
+Program vypíše celé polesčíslami zarovnanými doprava,
+hodnotu najväčšieho čísla apolohy (riadok astĺpec) všetkých najväčších čísel vpoli (môže ich byť viac), 
+napr. „Najväčšie číslo 29 sa nachádza v2. riadku a5. stĺpci, v4. riadku a7. stĺpci“. 
+Pozor, ľudia začínajú číslovať od čísla 1.
