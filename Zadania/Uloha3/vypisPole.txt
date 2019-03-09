@@ -1,0 +1,20 @@
+bb dd gg jj 
+hh cc aa dd 
+jj ff ww oo 
+cc pp ll vv 
+
+bb dd gg dd 
+hh cc aa jj 
+jj ff ww oo 
+cc pp ll vv 
+
+bb dd gg dd 
+hh cc aa jj 
+jj ff vv oo 
+cc pp ll ww 
+
+bb dd gg aa 
+hh cc cc jj 
+jj dd vv oo 
+ff pp ll ww 
+
