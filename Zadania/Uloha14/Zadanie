@@ -1,0 +1,14 @@
+Retazec
+-znaky:String
++ Retazec ()
++ nacitajSubor():void
++ vypisSubor():void
++ daj(int pozicia):char –vráti znak z pozície
++ zmen(int pozicia, char hodnota):void
++ pocet():int –vráti počet slov
++ zmaz(int pozicia):void –namiesto znaku daj medzeru
++ najvacsiZnak():char –vráti znak najďalej vabecede
++pocetSamohlasok():int
++pocetSpoluhlasok():int
++zakoduj(String znaky):void –zakódujteCézarovou šifrou
++odkodujte(String znaky):void –odkódujte šifru 
