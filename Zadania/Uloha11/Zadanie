@@ -1,0 +1,7 @@
+Vytvorte triedu Obdlznik s vlastnosťami stranaA,  stranaB,  konštruktorom bez parametrov 
+a metódou dajStrany(),ktorá náhodne zvolí veľkosti strán zmnožiny {3,  4,  5}cm,
+metódou jeStvorec(), ktorá zistí a oznámi volajúcemu prostrediu,či je tento obdĺžnik štvorcom alebo nie je 
+a metódou vypisInfo(), ktorá vypíše informácie oevidovanom obdĺžniku.
+Vytvorte spúšťaciu triedu, ktorá náhodne vytvorí objekty 10 obdĺžnikov, 
+vypíše informácie onich atiež počet evidovaných štvorcov. 
+Zistite, či sú vypísané informácie korektné.
