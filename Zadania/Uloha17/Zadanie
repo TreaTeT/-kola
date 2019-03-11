@@ -1,0 +1,7 @@
+Pomocou OOP navrhnite programpre nasledujúce zadanie. 
+Žiaci prichádzajú  do učebne v určitom poradí. 
+Učiteľ sa rozhodol, že ich bude skúšať presne v tomto poradí.
+Preto pri ich príchode si ich zapisoval a potom vyvolával k tabuli. 
+Vytvorte kolekciu mien podľa zadávania mien z klávesnice. 
+Zvoľte si vhodnú kolekciu. 
+Vypíšte na konzolu poradové číslo a meno žiaka.
