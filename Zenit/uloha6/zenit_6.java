@@ -19,7 +19,7 @@ class zenit_6 {
                     pravda = false;
                     break;
                 }
-            if (!pravda){                           //vyois
+            if (!pravda){                           //vypis
                 System.out.println("nie");
             }
             else {
