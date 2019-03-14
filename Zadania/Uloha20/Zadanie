@@ -1,0 +1,3 @@
+Pomocou OOP navrhnite programpre nasledujúce zadanie.
+Načítavajte mená so súboru mena.txt aukladajte ich do kolekcie podľa vlastného uváženia.
+Vypíšte usporiadané mená do súboru vysledok.txt, vypíšte počet mien začínajúce od apo j, apočet mien od kpo z. 
