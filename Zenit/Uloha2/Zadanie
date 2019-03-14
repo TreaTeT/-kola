@@ -1,0 +1,36 @@
+Zen-IT má kultúru delenia sa s priateľmi pričom priatelia sú všade navôkol. Ako také delenie vyzerá? 
+Príde zásielka obsahujúca určítý počet, povedzme N, predmetov. 
+Po prebratí ich má všetky v ruke zodpovedná osoba, väčšinou pani recepčná. 
+Táto osoba nájde najbližšieho človeka ktorý ešte nemá nič v ruke a odovzdá mu polovicu predmetov.
+Každá osoba sa delí kým jej neostane práve jeden predmet a ten si nechá. Zásielka je takto rýchlo a rovnomerne prebratá.
+Výborná zásielka je taká s ktorou sa každý vie deliť na rovnaké polovice kým neostane N ľuďom v ruke po predmete.
+Pomôžte recepčnej rýchlo rozhodnúť ktoré zásielky stoja za to.
+Formát vstupu a výstupu
+
+Na vstupe je jediné celé číslo N,1≤N≤2000000000.
+Overte či sa takýto počet predmetov dá bez problémov rozdať. Vypíšte jeden riadok s jediným slovom. Podľa zistenia “ano” alebo “nie”.
+Príklady
+
+Input:
+
+8
+
+Output:
+
+ano
+
+Input:
+
+47
+
+Output:
+
+nie
+
+Input:
+
+256
+
+Output:
+
+ano
