@@ -26,4 +26,6 @@ public class Zenit2 {
 
     /*Uloha este stale nie je dokoncena ale ja fakt neviem co s tym uz
     riesia to obe profesorky takze ked tak to updatnem potom*/
+    
+    //sub 2 pewds
 }
