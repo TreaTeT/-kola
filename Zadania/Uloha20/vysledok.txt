@@ -1,0 +1,10 @@
+Caputova
+Fuco
+Harabin
+Jano
+Kotleba
+Matrin
+Peter
+Xndrej
+Pocet mien od a-j je 4
+Pocet mien od k-z je 4

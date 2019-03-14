@@ -17,7 +17,7 @@ public class Zenit2 {
                 System.out.println("nie");
                 break;
             }
-            N=N/2; //delim cislo 
+            N=N/2; //delim cislo
         }
     }
     // riesenie 2 :  System.out.println((N & (N - 1)) == 0 ? "ano" : "nie"); <--- toto je lepsie ale aj tak neprejde
