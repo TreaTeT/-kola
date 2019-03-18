@@ -1,0 +1,37 @@
+Jazykovedný ústav potrebuje Vašu pomoc. Skúmanie reči vyžaduje moderné prístupy s použitím techniky. Treba zozbierať údaje o najlepšom vtipe, najčudnejšom zvuku alebo vyrobiť štatistiku gramatických chýb.
+
+Jeden z dôležitých poznatkov o jazyku sú najčastejšie používané slová v rôznych žargónoch. Pripravený korpus pozostáva z dostatočného množstva textu v ktorom sa skúmaný žargón používa. Následne bol vyčístený od najpoužívanejších bežných slov jazyku aby sa niečo aj vyskúmalo. Napríklad najpoužívanejšie slovo špecifické programátorskym webfóram je poník. Potrebujeme takéto slová identifikovať v danom texte.
+Formát vstupu a výstupu
+
+Na prvok riadku vstupu je počet slov na spracovanie N,N<200000
+. Na druhom nasleduje N
+
+medzerami oddelených slov pozostávajucích z malých písmen anglickej abecedy. Nájdite najčastejšie sa vyskytujúce slovo. Ak je takých viac, vypíšte abecedne najmenšie. Abecedne menšie slovo má prvé odlišné písmeno menšie. Nič je menšie než ľubovoľné písmeno.
+Príklady
+
+Input:
+
+5
+najcastejsie tu bude slovo tu
+
+Output:
+
+tu
+
+Input:
+
+7
+i dont get half of udp jokes
+
+Output:
+
+dont
+
+Input:
+
+2
+abc abcd
+
+Output:
+
+abc
