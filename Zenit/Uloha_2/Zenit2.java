@@ -1,4 +1,4 @@
-package Skola.Zenit.Uloha2;
+package Skola.Zenit.Uloha_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
