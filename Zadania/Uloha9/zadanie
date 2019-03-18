@@ -1,0 +1,5 @@
+Vytvorte OOP program, ktorý bude načítavať ŠPZ automobilov, ktoré prekročili
+rýchlosť a výšku pokuty dovtedy, kým užívateľ nezadá prázdny reťazec (Enter). Jeden
+automobil môže byť zaznamenaný viackrát. Program vypíše zoznam ŠPZ, ktorých
+majiteľov treba upozorniť a ku každej ŠPZ výšku pokuty. V riešení úlohy použite
+vhodnú kolekciu
