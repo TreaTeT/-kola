@@ -1,4 +1,4 @@
 
 Na prvom riadku vstupu dostaneme počet slov textu N do 1000. Na druhom bude N medzerami oddelených slov. 
-Slová sú dlhé najviac 100 znakov a pozostávajú z písmen malej abecedy bez diakritiky. Vypíšte slová v pôvodnom poradí, 
-každé otočené naopak.
+Slová sú dlhé najviac 100 znakov a pozostávajú z písmen malej abecedy bez diakritiky. 
+Vypíšte slová v pôvodnom poradí, každé otočené naopak.
