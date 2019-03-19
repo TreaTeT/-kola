@@ -18,18 +18,21 @@ public class Zenit15ske {
                 map.put(word, 1); //inak vytvorim novy zapis do mapu
             }
         }
-        if (((TreeMap<String, Integer>) map).lastEntry().getValue() == 1) { //tree map hned zoraduje takze ak last je 1 nijake slovo sa neopakuje
-            System.out.println(((TreeMap<String, Integer>) map).firstEntry().getKey()); //vypisem prve a teda najmensie slovo
-        } else {
-            int max = ((TreeMap<String, Integer>) map).lastEntry().getValue(); //max je posledna cize max hodnota v mape (max pocet opakovani slova)
-            for (Map.Entry<String, Integer> entry : map.entrySet()) { //for each cez map
+        System.out.println(map);
+        int max = 0;
+        for (Map.Entry<String, Integer> entry : map.entrySet()) { //for each cez map
+            if(entry.getValue() > max){
+                max = entry.getValue();
+            }
+        }
+        for (Map.Entry<String, Integer> entry : map.entrySet()) { //for each cez map
                 if(entry.getValue()==max){ //ak sa ich opakuje viac chceme to z najmensou hodnotou
                     System.out.println(entry.getKey()); // vypisem to z najmensou hodnotou ktore sa opakuje max krat
                     break; //zlomim ti ruku
+
                 }
 
             }
 
         }
-    }
 }
