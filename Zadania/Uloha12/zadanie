@@ -1,0 +1,6 @@
+Vytvorte OOP program s využitím vhodnej kolekcie, pre výpis poradia 10 pretekárov
+v krasokorčuľovaní. Každý pretekár dostane 10 známok (desatinné hodnoty). Vo
+vstupnom súbore sa nachádza v prvom riadku meno a priezvisko pretekára a v druhom
+riadku jeho známky oddelené od seba medzerou. Program vypočíta priemerné známky
+tak, že do priemeru nebude rátať najlepšiu a najhoršiu známku a vypíše konečné poradie
+pretekárov na základe priemernej známky zostupne.
