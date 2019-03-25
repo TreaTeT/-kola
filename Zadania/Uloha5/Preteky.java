@@ -1,4 +1,4 @@
-package Uloha5;
+package Skola.Zadania.Uloha5;
 
 
 import java.util.Scanner;
@@ -7,7 +7,7 @@ public class Preteky {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Zadaj počet pretekárov");//pocet pretekarov
-        Pretekar [] arr = new Pretekar[sc.nextInt()];//pole pretekarov
+        Pretekar[] arr = new Pretekar[sc.nextInt()];//pole pretekarov
         for(int i = 0 ;i < arr.length ; i ++){
             arr[i] = new Pretekar();//konstruktor
         }

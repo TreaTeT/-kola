@@ -1,3 +1,4 @@
+package Skola.Zenit.Uloha_3;
 import java.io.*;
 
 class zenit_3 {

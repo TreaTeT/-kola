@@ -1,4 +1,4 @@
-package Uloha8;
+package Skola.Zadania.Uloha8;
 
 public class spustaciatrieda {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Uloha5;
+package Skola.Zadania.Uloha5;
 
 import java.util.Arrays;
 import java.util.Scanner;

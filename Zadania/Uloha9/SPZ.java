@@ -1,4 +1,4 @@
-package Uloha_9;
+package Skola.Zadania.Uloha9;
 
 public class SPZ {
 

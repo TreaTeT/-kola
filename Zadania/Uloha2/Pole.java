@@ -1,4 +1,4 @@
-package Uloha2;
+package Skola.Zadania.Uloha2;
 
 import java.io.*;
 import java.util.Scanner;

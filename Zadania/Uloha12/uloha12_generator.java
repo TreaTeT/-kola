@@ -1,4 +1,4 @@
-package Uloha_12;
+package Skola.Zadania.Uloha12;
 
 import java.util.Locale;
 import java.util.Random;

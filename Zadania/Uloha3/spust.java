@@ -1,4 +1,6 @@
-package Uloha_3;
+package Skola.Zadania.Uloha3;
+
+import Skola.Zadania.Uloha3.pole;
 
 import java.io.IOException;
 import java.util.Scanner;

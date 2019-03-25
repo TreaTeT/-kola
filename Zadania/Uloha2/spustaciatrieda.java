@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class spustaciatrieda {
     public static void main(String[] args) throws IOException {
-        Uloha2.Pole a = new Uloha2.Pole(4,4);
+        Pole a = new Pole(4,4);
         //a.klavesnica(); nacitanie z klavesnice
         //a.najdi('a'); najdenie zadaneho charu v poli
         a.subor(); //nacitanie zo suboru

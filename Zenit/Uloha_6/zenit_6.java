@@ -1,3 +1,5 @@
+package Skola.Zenit.Uloha_6;
+
 import java.io.*;
 import java.util.Arrays;
 
