@@ -1,0 +1,4 @@
+Pomocou OOP pracujte s dvojrozmerným poľom s n riadkami a m stĺpcami typu int.
+Umožnite načítať údaje do poľa zo súboru i z klávesnice. Umožnite užívateľovi nájsť
+maximálne, resp. minimálne číslo v i-tom riadku, nájsť maximálne, resp. minimálne
+číslo v j-tom stĺpci. Zabezpečte vypisovanie poľa a výsledkov do súboru, i na konzolu.
