@@ -1,4 +1,4 @@
-package Uloha_6;
+package Skola.Zadania.uloha6;
 
 import java.util.Random;
 
