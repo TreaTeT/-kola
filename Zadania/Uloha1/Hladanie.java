@@ -18,7 +18,7 @@ public class Hladanie {
 
 
    public void nacitanieS() throws IOException {
-            BufferedReader in=new BufferedReader(new FileReader("D:\\HladanieI.txt"));
+            BufferedReader in=new BufferedReader(new FileReader("D:\\HladanieI.txt"));//tu si zvolis subor do ktorého vypíšeš celé 2pole
        String pomoc;
        String[] rozdelenie;
        int k=0;
@@ -32,7 +32,7 @@ public class Hladanie {
        }
 
    }
-        public void nacitanieK(){
+        public void nacitanieK(){ //do konzoly načítavaš čísla ktoré si si predtým výpísal do súboru
             Scanner sc=new Scanner(System.in);
             for (int i = 0; i < Pole.length; i++) {
             for (int j = 0; j < Pole[i].length; j++) {
