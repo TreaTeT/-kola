@@ -1,0 +1,12 @@
+Vytvorte program s čo najmenším počtom príkazov v hlavnej metóde, ktorý
+a) v metóde citaj() načíta obsah vstupného súboru udajeC.txt a uloží ho
+do jednorozmerného poľa prístupného všetkým metódam. Obsah vstupného
+súboru tvoria šesťčíslia rodných čísel po lomítko oddelené od seba medzerou,
+napr. 020730 016016 930303
+b) z metódy jeToMuz(cislo) pošle do volajúcej metódy hodnotu true, ak prijaté
+rodné číslo patrí mužovi a hodnotu false, ak patrí žene. Rodné čísla žien majú
+tretie číslo rovné 5 alebo 6, lebo 3. a 4. číslo je mesiac narodenia zväčšený
+o hodnotu 50.
+c) z metódy pocty() pošle do volajúcej metódy správu o počte mužov a žien.
+d) v metóde vypis() vypíše do súboru vystupB.txt výstup z metódy pocty()
+a do konzoly vypíše správu „Hotovo!“
