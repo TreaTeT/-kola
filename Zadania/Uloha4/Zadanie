@@ -1,0 +1,5 @@
+Pomocou OOP vytvorte program, kde pre žiakov určitej triedy, kde žiaci nemusia mať
+rovnaký počet známok z určitého predmetu, načítajte všetky známky zo súboru
+a vypočítajte každému žiakovi aritmetický priemer známok z tohto predmetu. Vypíšte
+žiakov od najlepšieho žiaka po najmenej úspešného žiaka podľa aritmetického priemeru
+do súboru vysledky.txt.
