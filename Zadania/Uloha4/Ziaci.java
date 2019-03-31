@@ -8,7 +8,7 @@ public class Ziaci {
     public Ziaci(int pocetriadkov){
         ziaci = new String[pocetriadkov][];
     }
-    public void nacitanie() throws IOException {
+    public void nacitanie() throws IOException { //tu si to napohodku nacitas zo suboru kde na zaciatku mas pocet ziakov a potom ich priemery
         BufferedReader br = new BufferedReader(new FileReader("D:\\ziacI.txt"));
         for(int i=0; i<ziaci.length; i++){
             String[] pomoc = br.readLine().split(" ");
