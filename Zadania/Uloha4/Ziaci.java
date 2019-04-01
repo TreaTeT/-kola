@@ -1,4 +1,4 @@
-package Uloha4;
+package Skola.Zadania.Uloha4;
 
 import java.io.*;
 

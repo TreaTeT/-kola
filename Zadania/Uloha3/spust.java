@@ -1,4 +1,4 @@
-package Uloha_3;
+package Skola.Zadania.Uloha3;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package Uloha1;
+package Skola.Zadania.Uloha1;
 
 import java.io.IOException;
 import java.sql.SQLOutput;
