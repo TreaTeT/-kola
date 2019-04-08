@@ -18,7 +18,6 @@ public class Zenit15ske {
                 map.put(word, 1); //inak vytvorim novy zapis do mapu
             }
         }
-        System.out.println(map);
         int max = 0;
         for (Map.Entry<String, Integer> entry : map.entrySet()) { //for each cez map
             if(entry.getValue() > max){
