@@ -1,0 +1,6 @@
+Pomocou OOP navrhnite program pre nasledujúce zadanie. Vojaci nastupujú do
+autobusu a sadajú si na sedadlá od posledných miest po predné miesta. Pri vychádzaní
+z autobusu prvý krát vychádzajú vojaci z predných miest postupne po miesta zadné.
+Pri východe z autobusu by vojaci mali dostať učebné materiály, no je ich len 20.
+Vypíšte mená vojakov, ktorí materiály dostali a mená vojakov, ktorí materiály
+nedostali. Pre riešenie zadania použite kolekciu Dequeue.
