@@ -1,0 +1,24 @@
+Medzi klientmi Zen-ITu sú aj reklamné agentúry. Tieto agentúry robia…reklamy. V reklamách radi ohurujú číslami. Nesmie sa to však podceniť ani prehnať. Prikrátke čísla nezaujmú diváka, pridlhé ho odradia. Reklamní agenti skúmajú správny pomer použitých čísiel ku zvyšku reklamy. Potrebujú zistiť koľko písmen použijeme na vyjadrenie jednotlivých čísiel.
+Formát vstupu a výstupu
+
+Vstup pozostáva z jediného kladného celého čísla N
+menšieho než 1000000
+
+. Vypíšte koľko písmen je použitých v jeho slovenskom zápise slovom.
+Príklady
+
+Input:
+
+3
+
+Output:
+
+3
+
+Input:
+
+9999
+
+Output:
+
+34
