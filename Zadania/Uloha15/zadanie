@@ -1,0 +1,10 @@
+Cas
+- hodiny:int
+- minuty:int
+- sekundy:int
+
++ Cas()
++ nastavHodiny(int hod):void
++ nastavMinuty(int min):void
++ nastavSekundy(int sek):void
++ zostavInfo():String
