@@ -1,0 +1,24 @@
+Ako isto viete, na zamykanie sú veľmi obľúbené číselné zámky. Klasické z niekoľkými kolieskami z ciframi na obdovde. Kolieska sa dajú otáčať oboma smermi, po 9 sa objaví 0 a naopak. Problém s nimi nastáva keď zamykajú miesto do ktorého potrebujete pristupovať častejšie. Skúsme poskytnúť aspoň jednoduchú pomoc.
+
+Pomoc bude prostredníctvom aplikácie ktorá dostane odfotený stav zámku, zadáte kombináciu na odomknutie a dostanete najmenší počet otočení ktorý musíte učiniť. Inovácie neminú ani zámočnícke odvetvie.
+
+Formát vstupu a výstupu
+Na vstupe je jedno kladné celé číslo N menšie než 10000. Nasledujú dva reťazce N čísiel – stav zámku a správna kombinácia. Vypíšte najmenší možný počet otočení zámku na odomknutie.
+
+Príklady
+Input:
+
+3
+000
+123
+Output:
+
+6
+Input:
+
+5
+12345
+98765
+Output:
+
+12
