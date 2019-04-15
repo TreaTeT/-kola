@@ -1,0 +1,3 @@
+meno1 priezvisko1 50
+meno2 priezvisko2 30
+meno3 priezvisko3 69
