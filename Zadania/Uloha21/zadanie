@@ -1,0 +1,5 @@
+Vytvorte súbor ludia.txt, ktorý bude obsahovať v každom riadku meno, priezvisko a
+plat. Vytvorte program, ktorý načíta obsah tohto súboru do kolekcie Map a umožní
+pridať nového človeka do kolekcie, vyradiť človeka z kolekcie, vypísať údaje o
+evidovaných ľuďoch na konzolu, vypísať priemerný plat ľudí a mená a priezviská
+ľudí, ktorí majú vyšší plat ako priemerný plat do konzoly. 
