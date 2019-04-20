@@ -1,0 +1,5 @@
+Na prvom riadku vstupu sú čísla R a S, obe do 500. Nasleduje R riadkov po S znakov. 
+Každý znak je buď “.” (voda) alebo “#” (pevnina). 
+Dve pevniny sú na rovnakom ostrove ak susedia stranou, nie rohom. 
+Môžete sa spoľahnúť že na okrajoch bude všade voda. 
+Vypíše jediné číslo, počet rôznych ostrovov.
