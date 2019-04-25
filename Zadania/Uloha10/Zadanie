@@ -1,0 +1,8 @@
+V súbore filmy.txt je v prvom riadku počet filmov, ktoré sa budú premietať v tomto
+mesiaci v kine a v ďalších riadkoch sú ich názvy (jeden názov v jednom riadku).
+Vytvorte prvú verziu programu, ktorý načíta obsah tohto súboru, názvy filmov zoradí
+podľa abecedy Quick Sortom, ktorého algoritmus si stiahnete z Internetu. Potom bude
+postupne načítavať z klávesnice názvy filmov a ku každému filmu vypisovať, či sa bude
+premietať tento mesiac alebo nie, dovtedy, kým nenačíta prázdny názov filmu. Na
+vyhľadávanie názvu filmu použite binárne vyhľadávanie bez rekurzie. Vytvorte druhú
+verziu programu, v ktorej použijete vhodnú kolekciu.
