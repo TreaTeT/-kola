@@ -1,0 +1,12 @@
+DvojrozmernePolia
+- [][] dPole1:int - rovnaké veľkosti polí
+- [][] dPole2:int
++ DvojrozmernePolia () – načítanie údajov do vlastností triedy zo
+súboru
++ getters - na vlastnosti triedy
++ vypisPole(int [][]A):void – výpis do súboru
++ apHlavnejD(int [][]A):float
++ apVedlajsejD(int [][]A):float
++ porovnaj(int riadok1,int riadok2):void - porovná, či sa riadky polí
+zhodujú
++ zorad(int riadok):void – zoradí daný riadok oboch polí
