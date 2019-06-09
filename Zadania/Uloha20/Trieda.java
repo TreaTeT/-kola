@@ -42,7 +42,7 @@ public class Trieda{
             if(firstchar <=  'j'){ //ak je mensie alebo rovne ako j
                 this.pocet1 ++; //pripocitam +1 k poctu mien od a-j
             }else{
-                this.pocet2 ++;//pripocitam +1 k poctu mien od a-j
+                this.pocet2 ++;//pripocitam +1 k poctu mien od k-z
             }
         }
     }
