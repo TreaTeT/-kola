@@ -1,0 +1,8 @@
+Pomocou OOP navrhnite program pre nasledujúce zadanie. Vytvorte súbor
+zamestnaci.txt, ktorý bude obsahovať evidenčné číslo zamestnanca, jeho meno,
+priezvisko a vek. Vytvorte program, ktorý načíta obsah tohto súboru do kolekcie Map
+a umožní pridať nového zamestnanca, vyradiť zamestnanca z evidencie, vypísať údaje
+o evidovaných zamestnancoch do konzoly, vypísať priemerný vek zamestnancov a
+mená a priezviská zamestnancov starších ako je priemerný vek do konzoly. Pred
+ukončením programu uloží program aktuálne informácie opäť do súboru
+zamestnanci.txt.
