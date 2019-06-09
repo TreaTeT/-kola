@@ -1,0 +1,10 @@
+Datum
+- den:int
+- mesiac:int
+- rok:int
++ Datum(int d, int m, int r)
++ nastavDen(int d):void;
++ nastavMesiac(int m):void
++ nastavRok(int r):void
++ priestupny():boolean;
++ vypisInfo():void
